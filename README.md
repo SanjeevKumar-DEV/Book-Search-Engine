@@ -55,11 +55,11 @@ This application was created with [Node.js](https://nodejs.org/en/). The modules
 
 <p>Homepage</p>
 
-- ![Homepage](server/assets/images/homepage.PNG)
+- ![Homepage](server/assets/images/homepage.png)
 
 <p>Delete Book</p>
 
-- ![Book-Deleted](server/assets/images/bookDeleted.PNG)
+- ![Book-Deleted](server/assets/images/bookDeleted.png)
 
 <p>Save Book</p>
 
