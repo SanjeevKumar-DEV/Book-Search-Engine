@@ -63,19 +63,19 @@ This application was created with [Node.js](https://nodejs.org/en/). The modules
 
 <p>Save Book</p>
 
-- ![Book-Saved](./server/assets/images/bookSaved.PNG)
+- ![Book-Saved](server/assets/images/bookSaved.png)
 
 <p>Searched Books</p>
 
-- ![Searched-Books](./server/assets/images/searchBook.PNG)
+- ![Searched-Books](server/assets/images/searchBook.png)
 
 <p>SignUp</p>
 
-- ![Sign-Up](./server/assets/images/signUp.PNG)
+- ![Sign-Up](server/assets/images/signUp.png)
 
 <p>View Saved</p>
 
-- ![View-saved](./server/assets/images/viewSave.PNG)
+- ![View-saved](server/assets/images/viewSave.png)
 
 ## License 
 <p> This application is covered under the:</p>
