@@ -57,13 +57,13 @@ This application was created with [Node.js](https://nodejs.org/en/). The modules
 
 - ![Homepage](./server/assets/images/homepage.PNG)
 
-<p>Delete book</p>
+<p>Delete Book</p>
 
-- ![Book-deleted](./server/assets/images/bookDeleted.PNG)
+- ![Book-Deleted](./server/assets/images/bookDeleted.PNG)
 
 <p>Save Book</p>
 
-- ![Book-saved](./server/assets/images/bookSaved.PNG)
+- ![Book-Saved](./server/assets/images/bookSaved.PNG)
 
 <p>Searched Books</p>
 
